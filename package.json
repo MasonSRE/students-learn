@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imooc-lego/students-learn-task.git"
+    "url": "git+https://github.com/MasonSRE/students-learn.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imooc-lego/students-learn-task/issues"
+    "url": "https://github.com/MasonSRE/students-learn/issues"
   },
-  "homepage": "https://github.com/imooc-lego/students-learn-task#readme",
+  "homepage": "https://github.com/MasonSRE/students-learn#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
   },
